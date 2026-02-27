@@ -1,21 +1,21 @@
 <div align="center">
 
-```
+<pre>
 █▀▄▀█ ▄▀█ ▀█▀ █▀█ █ ▀▄▀   █▀▄ ▄▀█ █▀ █ █ █▄▄ █▀█ ▄▀█ █▀█ █▀▄
 █░▀░█ █▀█ ░█░ █▀▄ █ █░█   █▄▀ █▀█ ▄█ █▀█ █▄█ █▄█ █▀█ █▀▄ █▄▀
-```
+</pre>
 
 ![](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117&color=00FF41)
 ![](https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF41?style=for-the-badge&labelColor=0D1117&color=00FF41)
 ![](https://img.shields.io/badge/MODE-FULL_STACK_DEV-00FF41?style=for-the-badge&labelColor=0D1117&color=00FF41)
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════════════════╗
 ║  > INITIALIZING GITHUB ANALYTICS DASHBOARD...                   ║
 ║  > LOADING CONTRIBUTION MATRIX...                               ║
 ║  > ALL SYSTEMS NOMINAL. WELCOME TO THE GRID.                    ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
 
@@ -57,15 +57,12 @@
 
 <div align="center">
 
+<div align="center">
+
 ### ◈ SECTOR 04 — DEEP SCAN PROFILE METRICS ◈
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulSadath77&theme=vue-dark" width="98%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulSadath77&theme=vue-dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulSadath77&theme=vue-dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulSadath77&theme=vue-dark" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulSadath77&theme=vue-dark&utcOffset=5.5" width="65%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulSadath77&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00CC66&ring_color=00FF41&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSadath77&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00CC66&langs_count=10" width="49%" />
 
 </div>
 
@@ -73,13 +70,13 @@
 
 <div align="center">
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════════════════╗
 ║  > ANALYTICS SCAN COMPLETE                                      ║
 ║  > ALL NODES SYNCHRONIZED                                       ║
 ║  > END OF TRANSMISSION ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%        ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <img src="https://komarev.com/ghpvc/?username=AbdulSadath77&color=00FF41&style=for-the-badge&label=NODES+CONNECTED" />
 
