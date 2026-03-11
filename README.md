@@ -100,9 +100,9 @@
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════╗
-║  > INITIALIZING GITHUB ANALYTICS DASHBOARD...                   ║
-║  > LOADING CONTRIBUTION MATRIX...                               ║
-║  > ALL SYSTEMS NOMINAL. WELCOME TO THE GRID.                    ║
+║  > INITIALIZING GITHUB ANALYTICS DASHBOARD...                    ║
+║  > LOADING CONTRIBUTION MATRIX...                                ║
+║  > ALL SYSTEMS NOMINAL. WELCOME TO THE GRID.                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
 
@@ -167,9 +167,9 @@
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════╗
-║  > ANALYTICS SCAN COMPLETE                                      ║
-║  > ALL NODES SYNCHRONIZED                                       ║
-║  > END OF TRANSMISSION ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%        ║
+║  > ANALYTICS SCAN COMPLETE                                       ║
+║  > ALL NODES SYNCHRONIZED                                        ║
+║  > END OF TRANSMISSION ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%         ║
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
 
